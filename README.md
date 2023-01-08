@@ -19,4 +19,4 @@ Nëse vegla vërenë të paktën një dobësi, do të lajmërojë që faqja e sk
  * NodeJS
  * Express
  
- 
+ ###### Project forked and modified for education purposes from: https://github.com/MariaGarber/XSS-Scanner.git
