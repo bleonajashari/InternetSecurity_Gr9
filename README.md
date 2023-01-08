@@ -1,5 +1,3 @@
-# InternetSecurity_Gr9
-
 <h1 align="center">XSS-SCANNER</h1>   
 
 ## Çka është Cross-Site Scripting
